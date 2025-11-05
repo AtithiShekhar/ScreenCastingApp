@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.cast_screen"
-        minSdk = 31  // ✅ FIXED: Changed from 26 to 31
+        minSdk = 31  
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
